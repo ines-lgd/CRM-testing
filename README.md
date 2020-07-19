@@ -1,4 +1,4 @@
-# :notebook_with_decorative_cover: Projet CRM - Une application web pour répertorier des contacts.
+## :notebook_with_decorative_cover: Projet CRM - Une application web pour répertorier des contacts.
 
 Dans le cadre d'un projet de groupe avec tests unitaires.
 
@@ -50,5 +50,5 @@ Des commandes ont été enregistrer dans le Makefile.
 Voici quelque regles pour la gestion du GIT pour les développeurs.
 - Toutes les branches doivent partir de la branche **dev**.
 - Les noms de branches doit correspondre au nom de la fonctionnalité qui sera developpé.
-- Les noms de branches devront commencer par **feat/**.
+- Les noms de branches devront commencer par **dev/**.
 - Les merges requests seront destinée vers la branche **dev** 
