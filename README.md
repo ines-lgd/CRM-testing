@@ -8,7 +8,7 @@ Projet proposé par **Hiren PATEL**.
 
 Réalisé par :
 - RUFFINEL Josué
-- LEAGAUD Inès
+- LEGAUD Inès
 
 ### Installation 
 - Copier le fichier **.env-example** dans un nouveau fichier **.env** 
